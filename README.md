@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @c-grimshaw. I'm an engineer in the military and a MASc candidate in Cybersecurity at RMC/Queen's in Canada.
+- 👀 I’m passionate about security, reverse-engineering, and learning best-practices
+- 🌱 I’m currently learning Windows internals, and host-based anomaly detection.
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me-- Feel free to reach out here!
