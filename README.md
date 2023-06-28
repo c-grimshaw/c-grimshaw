@@ -1,3 +1,3 @@
-👋 Hi, I’m @c-grimshaw. I'm an engineering officer in the military and a MASc candidate in Cybersecurity at the Royal Military College of Canada.
+Hey, I’m @c-grimshaw. I'm a hobbyist programmer and an systems security engineering officer in the Canadian military. I have a BEng and MASc in Computer Engineering, and my graduate thesis was focused on enterprise-scale anomaly/threat detection using link prediction techniques in GNNs.
 
-Passionate about software engineering, cattle dogs (...or at least, my cattle dog, Indiana Bones...), and long distance running. Currently into TUI programming!
+I'm passionate about software engineering, cattle dogs (specifically, my cattle dog), and long distance running (specifically, running with my partner). I enjoy Go, Rust, and Python as my main programming languages.
